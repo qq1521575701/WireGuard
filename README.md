@@ -22,7 +22,7 @@
       ghcr.io/wg-easy/wg-easy
 
 ## 后台管理
-    ip:51821
+    http://ip:51821
 
 ## port
     UDP:51820
