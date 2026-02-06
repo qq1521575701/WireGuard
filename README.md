@@ -24,5 +24,10 @@
 ## 后台管理
     http://ip:51821
 
-## port
-    UDP:51820
+## WireGuard UDP 端口
+    51820/udp
+
+
+
+
+
